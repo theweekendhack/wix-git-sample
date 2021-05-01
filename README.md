@@ -10,3 +10,5 @@
 
 ![alt Git Logo](img/gitLogo.png)
 
+[Visit The Weekend Hack](https://www.theweekendhack.com)
+
