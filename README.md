@@ -7,3 +7,6 @@
 1. Git
 2. Git Hub
 3. Readme
+
+![alt Git Logo](img/gitLogo.png)
+
